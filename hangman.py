@@ -144,9 +144,6 @@ def check_guess(guess):
             break
 
 
-            
-print("HELLO There")
-
 while True:
     choose_word()
     check_guess(0)
