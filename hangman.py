@@ -145,6 +145,7 @@ def check_guess(guess):
 
 
             
+print("HELLO There")
 
 while True:
     choose_word()
